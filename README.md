@@ -2,8 +2,8 @@
 
 ## 1. Identificação
 
-- **Nome completo:** SEU NOME COMPLETO AQUI
-- **Curso:** NOME DO SEU CURSO
+- **Nome completo:** Julia Rafaela da Silva
+- **Curso:** Informática para Internet 
 - **Unidade Curricular:** Desenvolver Serviços Web
 
 ## 2. Descrição do Projeto
