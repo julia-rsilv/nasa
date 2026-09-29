@@ -102,13 +102,3 @@ A API ficará disponível em `http://localhost:8080`.
 - **Requisição:** `DELETE http://localhost:8080/missoes/6`
 - **Resposta:** `204 No Content` (sem corpo) ou `404 Not Found` se não existir.
 
-## 8. Evidências dos Testes
-
-Capturas de tela do Postman/Insomnia:
-
-- GET /status: ![status](prints/status.png)
-- GET /missoes: ![listar](prints/listar.png)
-- GET /missoes/{id}: ![buscar](prints/buscar.png)
-- POST /missoes: ![criar](prints/criar.png)
-- PUT /missoes/{id}: ![atualizar](prints/atualizar.png)
-- DELETE /missoes/{id}: ![remover](prints/remover.png)
