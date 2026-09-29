@@ -1,6 +1,9 @@
 {
+    "name": "aluno/api-missoes-espaciais",
+    "description": "API REST de missões espaciais com PHP e Slim Framework",
     "require": {
-        "slim/slim": "^4.15",
-        "slim/psr7": "^1.8"
+        "php": ">=8.0",
+        "slim/slim": "^4.12",
+        "slim/psr7": "^1.6"
     }
 }
