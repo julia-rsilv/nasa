@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "nome": "Apollo 11",
+        "ano": 1969,
+        "agencia": "NASA",
+        "status": "Concluída"
+    },
+    {
+        "id": 2,
+        "nome": "Voyager 1",
+        "ano": 1977,
+        "agencia": "NASA",
+        "status": "Em operação"
+    },
+    {
+        "id": 3,
+        "nome": "Artemis II",
+        "ano": 2026,
+        "agencia": "NASA",
+        "status": "Planejada"
+    },
+    {
+        "id": 4,
+        "nome": "Chandrayaan-3",
+        "ano": 2023,
+        "agencia": "ISRO",
+        "status": "Concluída"
+    },
+    {
+        "id": 5,
+        "nome": "Rosetta",
+        "ano": 2004,
+        "agencia": "ESA",
+        "status": "Concluída"
+    }
+]
